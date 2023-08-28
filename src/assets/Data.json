@@ -1,0 +1,107 @@
+{
+  "item": [
+    {
+      "item_name": "panipoori",
+      "id": 3,
+      "item_img": "https://th.bing.com/th/id/OIP.8k0a1nSSBVpy-3LTA3kjMwHaF3?pid=ImgDet&rs=1",
+      "item_price": 50
+    },
+    {
+      "id": 5,
+      "item_name": "Gobi Manchuria",
+      "item_img": "https://th.bing.com/th/id/R.80d1ddf1fd3953ac897825970b62f8e7?rik=r0v4O1wAAtH4aQ&riu=http%3a%2f%2f4.bp.blogspot.com%2f-Af-Jh4hDXuY%2fTtdsAAzEANI%2fAAAAAAAAAZE%2fOkohcNmiTf8%2fs1600%2fGobi%2bManchurian.jpg&ehk=AoiReoaLcFjMspLZeSD%2fvEP0YTlaOQRAhUeT%2fPSTqxY%3d&risl=&pid=ImgRaw&r=0",
+      "item_price": "120"
+    },
+    {
+      "id": 6,
+      "item_name": "Babycorn Manchuria",
+      "item_img": "https://img-global.cpcdn.com/001_recipes/8d754b978d9419b4/1200x630cq70/photo.jpg",
+      "item_price": "100"
+    },
+    {
+      "id": 7,
+      "item_name": "Mushroom Friedrice",
+      "item_img": "https://th.bing.com/th/id/OIP.ARpQgxpJpW2fS6NwohFpVgHaJ4?pid=ImgDet&rs=1",
+      "item_price": "200"
+    },
+    {
+      "id": 8,
+      "item_name": "Lassi",
+      "item_img": "https://th.bing.com/th/id/R.20042190b650871cfccf00cd06898b06?rik=3AZAoJngXsgegA&riu=http%3a%2f%2fwww.chefpriyanka.com%2fwp-content%2fuploads%2f2013%2f03%2flassi5.jpg&ehk=qpfmqzsJeXBH6R%2bT4czoB0ZrFg7twEc8seQCmyAVq00%3d&risl=&pid=ImgRaw&r=0",
+      "item_price": "175"
+    },
+    {
+      "item_name": "bhelpuri",
+      "item_price": 25,
+      "id": 9
+    }
+  ],
+  "contactR": [
+    {
+      "name": "",
+      "email": "",
+      "phonenumber": "",
+      "comment": "",
+      "id": 1
+    },
+    {
+      "name": "viswanadh",
+      "email": "viswanadhbabunuru@gmail.com",
+      "phonenumber": "1234567",
+      "username": "viswa184",
+      "password": "12345",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "name": "viswanadh",
+      "email": "viswanadhbabunuru@gmail.com",
+      "phonenumber": "1234567",
+      "username": "viswa184",
+      "password": "12345",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "name": "viswa",
+      "email": "viswanadj@gmail.com",
+      "phonenumber": "4367243",
+      "username": "viswa574",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "viswanadh14",
+      "email": "babunuru.viswanadh@hcl.com",
+      "phonenumber": "1232",
+      "username": "viswa222",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "phonenumber": "131",
+      "username": "test222",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "name": "test",
+      "email": "m,sc s,dz",
+      "phonenumber": "1234567",
+      "username": "test22",
+      "password": "12345",
+      "id": 5
+    }
+  ],
+  "cart": [
+    {
+      "id": 5,
+      "item_name": "Gobi Manchuria",
+      "item_img": "https://th.bing.com/th/id/R.80d1ddf1fd3953ac897825970b62f8e7?rik=r0v4O1wAAtH4aQ&riu=http%3a%2f%2f4.bp.blogspot.com%2f-Af-Jh4hDXuY%2fTtdsAAzEANI%2fAAAAAAAAAZE%2fOkohcNmiTf8%2fs1600%2fGobi%2bManchurian.jpg&ehk=AoiReoaLcFjMspLZeSD%2fvEP0YTlaOQRAhUeT%2fPSTqxY%3d&risl=&pid=ImgRaw&r=0",
+      "item_price": "120"
+    }
+  ]
+}
